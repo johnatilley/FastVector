@@ -1,3 +1,6 @@
+/**
+ * Author: Unknown
+ */
 class FastVector {
 	constructor(x, y) {
 		this.x = x;
